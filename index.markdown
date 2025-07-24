@@ -7,7 +7,7 @@ title: Home
 	<img src="assets/fig/propic.png" alt="Junsuh Kim" align="middle" width="360px">
 # Hi, I'm Junsuh! 
 
-<p>I'm currently a Ph.D. student in the Department of Materials Science & Engineering at MIT, advised by <a href="https://gallant.mit.edu/"> Professor Betar Gallant</a> and supported by the NSF GRFP. Previously, I studied Chemistry at UC Berkeley, where I researched under <a href="https://www.bediakolab.org/"> Professor Kwabena Bediako</a>. </p>
+<p>I'm currently a PhD student in the Department of Materials Science & Engineering at MIT, advised by <a href="https://gallant.mit.edu/"> Professor Betar Gallant</a> and supported by the NSF GRFP. Previously, I studied Chemistry at UC Berkeley, where I researched under <a href="https://www.bediakolab.org/"> Professor Kwabena Bediako</a>. </p>
 
 # What I'm up to right now:
 * <b>As a materials scientist</b>, I'm investigating the role of the solid-electrolyte interphase in governing Coulombic efficiencies of high-energy density lithium-metal batteries.
